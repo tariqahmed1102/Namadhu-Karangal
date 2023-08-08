@@ -1591,7 +1591,7 @@ ul li {
 .navbar-area .nav-container .navbar-collapse .navbar-nav li {
   display: inline-block;
   font-weight: 500;
-  line-height: 60px;
+  line-height: 50px;
   text-transform: capitalize;
 }
 
